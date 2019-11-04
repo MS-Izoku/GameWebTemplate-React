@@ -13,3 +13,6 @@ If you want to only use the React App without the Rails-Backend API, you will ne
 
 ### Usage WITH the Backend API
 If you decide to use the Backend API, follow the quick steps in the Backend API's repo to get started.  Do not modify the original state, as it will be needed for the page to render properly.
+
+## Styling
+Styling is currently a WIP
